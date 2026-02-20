@@ -1,0 +1,392 @@
+{
+  "cesp_version": "1.0",
+  "name": "tr-ses-paketi",
+  "display_name": "TR Ses Paketi",
+  "version": "1.0.0",
+  "author": {
+    "name": "coruhsimsek1",
+    "github": "coruhsimsek1"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "tr",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "Merhaba Abi - Arif Işık - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Geliyoo - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Sinan Kaya - İyi Günler Akasya Durağı - Ses Efekti.mp3"
+        },
+        {
+          "file": "Nası Tak Diye Burdayım, Saniyede - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Selamün Aleyküm Sayın Dinleyenler, Kaybedenler Kulübü Burası - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "Osman Aga E Diyor - Akasya Durağı - Ses Efekti.mp3"
+        },
+        {
+          "file": "Seni Seçtim Çünkü Sen Farklısın - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Bir Dümen Yapmalıyım - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "Helal Olsun Ulan - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Oh Be Kurtuldum Be - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Vay Goçum Benim - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Güzel, Sardı, Sarıyo - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "Kaç Lan Kaç Yakalancan A＊＊＊k - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Vaa Dolandırıldım Lan Vaa - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Koronayı S＊keyim - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Sen Kafayı Sıyırmışsın - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Noldu Lan Ayı, K＊＊ına Girsin Keman Yayı - Recep İvedik - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "Neyin Var Senin Anlat, Eniştene Anlat Ya - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ne Diyorsun Ablacım Sen - Arif Işık - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Nedir Problem Gardaş - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Beyler Bir Dakika Bir Şey Konuşuyoruz Ya - G.O.R.A. - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "Sen Benim Değerli Zamanımı Nasıl Çalarsın Hadsiz - Deep Turkish Web.mp3"
+        },
+        {
+          "file": "Boşa Yaşıyoruz A＊＊na Koyim - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Bana Sakın 5 Metreden Yakın Yaklaşma - Recep İvedik - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "Konuşma Lan - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Karı Mısın Ya Sen - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Sapık Mısın Lan Sen - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ayıp Oluyor Hocam - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Lan Sen Ne Biçim İnsansın - Recep İvedik - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.bash": {
+      "sounds": [
+        {
+          "file": "Say Lan - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ateş Su Toprak Tahta - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Akıllı Olun Oğlum, Bak Adamı Delirtmeyin Ha - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Bana Bak Belanı Benden Bulma Ha - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Kardeşim Yılan Yap Kendini - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.bash.success": {
+      "sounds": [
+        {
+          "file": "Osman Aga - Ne Ka Güzel Ne Ka Güzel - Akasya Durağı - Ses Efekti.mp3"
+        },
+        {
+          "file": "Benim Canım Yanmaz Gardaş - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Kapı Benim Kapım Olduğundan Bir Problem Yok - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "O Laflar Boy Boy - Recep İvedik - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.edit": {
+      "sounds": [
+        {
+          "file": "Geri Bas, Geri Bas - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Karışık Var Mı - Karışık Koy Ya - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Öte Kaykıl Lan - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Oğlum Sakin Ol Lan - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Değişik Geçiş (Şaşırma) Efekti - Akasya Durağı - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.edit.success": {
+      "sounds": [
+        {
+          "file": "Sarıyo - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ben De Bundan Keyif Alıyorum - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Sizin Kadar Genişini Görmedim Hocam - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Öldürmedi He Bayılttı - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Fatih_in İstanbul_u, Fethettiği Yaştasın - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Uuuu Ne, Kanımda Var - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.write": {
+      "sounds": [
+        {
+          "file": "Yine Seks Hikayesi Mi Yazıyorsun Feridun Abi - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ulan Ne Büyük Adam, Bilmediği Nane Yok - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Kopernik Pizzası - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Salih Abi! Bana Bir Yolluk Yap - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Kardeşim 100 Bin Lirayı Koydum, Seneye 1 Milyon Dolarım Olacak - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Melih Bak Uçuyorsun - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.write.success": {
+      "sounds": [
+        {
+          "file": "Fikir Güzel, Mekan Güzel, Ama Yemezler - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Sen Ne Havalı Şeysin Lan Kozbişov - Karışık Koy Ya - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ya Acı Macı Bize İşler Mi Bacı Ya - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Amerikalıların Bir Lafı Vardır Bildin Mi - G.O.R.A. - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.read": {
+      "sounds": [
+        {
+          "file": "Sende Sinsilik Var - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Niye Öyle Diyorsunuz Beyefendi Alındım Gücendim - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.grep": {
+      "sounds": [
+        {
+          "file": "Beyfendi Bu Kadar İnsan Salak Olamaz Değil Mi - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Asla Tıbbı Sorgulama - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Evde Yoğun Bir D＊şşak Kokusu Var - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.glob": {
+      "sounds": [
+        {
+          "file": "Cebinde Paran Mı Var - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Saydın Mı Lan - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Şaşırma Efekti - Akasya Durağı - Ses Efektleri.mp3"
+        },
+        {
+          "file": "Aboov  - Sinan Kaya - Akasya Durağı - Ses Efekti.mp3"
+        },
+        {
+          "file": "Burda S＊＊iş Var S＊＊iş - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.webfetch": {
+      "sounds": [
+        {
+          "file": "Taksi Lazımdır Ağabey - Akasya Durağı - Ses Efekti.mp3"
+        },
+        {
+          "file": "Uzaylılar Tarafından Kaçırıldım Evet Tarafından - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Allah Kurtarsın - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Yansın Kardeşim Goralılar Düşünsün - G.O.R.A. - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.websearch": {
+      "sounds": [
+        {
+          "file": "Napıyorsunuz Lan Kader Mahkumları - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Bu Amk Dünyasına Nerden Geldim - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ulan Bu Ok Zehirli İşte, Bunu Atmayın Artık - G.O.R.A. - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.task": {
+      "sounds": [
+        {
+          "file": "Seni Bile Yerim Super Mario - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Akşama Güreş Mi Var Lee - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Bana Giren Hepinize De Girdi Arkadaşlar, Tren Yapacaz, Öyle - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Kardeşim Arkadan Vurdun Mu Önden Sallanacak - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Azerbaycandan Gelip Seni S＊keremm - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "G＊tünüzden Element Uydurmayın - G.O.R.A. - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.subagent.stop": {
+      "sounds": [
+        {
+          "file": "Ne Ölmesi Kardeşim Bayılmışım Amk - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Hööğ, Çok Komik, Dingil Seni - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Yıkıksın - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Şunu Bi Tutar Mısın Şizofren Kardeş - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Osman Aga Gülüş Pehehehe - Akasya Durağı - Ses Efekti.mp3"
+        }
+      ]
+    },
+    "tool.task.done": {
+      "sounds": [
+        {
+          "file": "Gülüş Böhöhöyt - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "İkiz Dingiller Açın Da K＊çınıza Gülün - Recep İvedik - Ses Efekti.mp3"
+        },
+        {
+          "file": "Ya Ebenin - Bob Marley Faruk - G.O.R.A. - Ses Efekti.mp3"
+        },
+        {
+          "file": "Senin Kafanı S＊keyim - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Napıyorsunuz Lan Birbirinizi Mi S＊＊iyorsunuz - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Merhaba Hanımefendi Hiç A＊＊nıza Basmış Mıydım - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Merhaba Hanımefendi Sizinle Hiç S＊＊işmiş Miydik - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "S＊kso Kaç Lira - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "T＊＊＊＊sti S＊＊en Adamın Burda Ne İşi Var Ya - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "Yalvarırım Ağzına Al - Deep Turkish Web - Ses Efekti.mp3"
+        },
+        {
+          "file": "＊＊ına Kodumun Hayati - Deep Turkish Web - Ses Efekti.mp3"
+        }
+      ]
+    }
+  }
+}
